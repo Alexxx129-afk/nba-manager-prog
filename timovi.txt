@@ -1,0 +1,30 @@
+Boston Celtics,Istok,Atlantic
+Brooklyn Nets,Istok,Atlantic
+New York Knicks,Istok,Atlantic
+Philadelphia 76ers,Istok,Atlantic
+Toronto Raptors,Istok,Atlantic
+Chicago Bulls,Istok,Central
+Cleveland Cavaliers,Istok,Central
+Detroit Pistons,Istok,Central
+Indiana Pacers,Istok,Central
+Milwaukee Bucks,Istok,Central
+Atlanta Hawks,Istok,Southeast
+Charlotte Hornets,Istok,Southeast
+Miami Heat,Istok,Southeast
+Orlando Magic,Istok,Southeast
+Washington Wizards,Istok,Southeast
+Denver Nuggets,Zapad,Northwest
+Minnesota Timberwolves,Zapad,Northwest
+Oklahoma City Thunder,Zapad,Northwest
+Portland Trail Blazers,Zapad,Northwest
+Utah Jazz,Zapad,Northwest
+Golden State Warriors,Zapad,Pacific
+Los Angeles Clippers,Zapad,Pacific
+Los Angeles Lakers,Zapad,Pacific
+Phoenix Suns,Zapad,Pacific
+Sacramento Kings,Zapad,Pacific
+Dallas Mavericks,Zapad,Southwest
+Houston Rockets,Zapad,Southwest
+Memphis Grizzlies,Zapad,Southwest
+New Orleans Pelicans,Zapad,Southwest
+San Antonio Spurs,Zapad,Southwest
