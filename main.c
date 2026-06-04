@@ -101,6 +101,59 @@ float racunajProsecanOvr(Igrac svi_igraci[], int broj_igraca, char tim[]) {
     return (float) suma / br;
 }
 
+void generisiNBAraspored(Ekipa niz_ekipa[], int broj_timova, int stvarni_indeks, Utakmica raspored[]) {
+    char* moj_tim = niz_ekipa[stvarni_indeks].ime;
+    char* moja_konf = niz_ekipa[stvarni_indeks].konf;
+    char* moja_div = niz_ekipa[stvarni_indeks].div;
+    int ostali_iz_konf[15];
+    int br_iz_konf = 0;
+    int brojac_maceva = 0;
+    for (int i = 0; i < broj_timova; i++) {
+        if (strcmp(niz_ekipa[i].ime, moj_tim) == 0) continue;
+        if (strcmp(niz_ekipa[i].konf, moja_konf) == 0) {
+            if (strcmp(niz_ekipa[i].div, moja_div) == 0) {
+                for (int j = 0; j < 4; j++) {
+                    strcpy(raspored[brojac_maceva].protivnik, niz_ekipa[i].ime);
+                    raspored[brojac_maceva].da_li_sam_domacin = (j % 2 == 0);
+                    brojac_maceva++;
+                }
+            } else {
+                ostali_iz_konf[br_iz_konf] = i;
+                br_iz_konf++;
+            }
+        } else {
+            for (int j = 0; j < 2; j++) {
+                strcpy(raspored[brojac_maceva].protivnik, niz_ekipa[i].ime);
+                raspored[brojac_maceva].da_li_sam_domacin = (j % 2 == 0);
+                brojac_maceva++;
+            }
+        }
+    }
+    for (int i = 0; i < br_iz_konf; i++) {
+        int r = i + rand() % (br_iz_konf - i);
+        int temp = ostali_iz_konf[i];
+        ostali_iz_konf[i] = ostali_iz_konf[r];
+        ostali_iz_konf[r] = temp;
+    }
+    for (int i = 0; i < br_iz_konf; i++) {
+        int idx = ostali_iz_konf[i];
+        int broj_utakmica = (i < 6) ? 4 : 3;
+        for (int j = 0; j < broj_utakmica; j++) {
+            if (brojac_maceva < 82) {
+                strcpy(raspored[brojac_maceva].protivnik, niz_ekipa[idx].ime);
+                raspored[brojac_maceva].da_li_sam_domacin = (j % 2 == 0);
+                brojac_maceva++;
+            }
+        }
+    }
+    for (int i = 0; i < brojac_maceva; i++) {
+        int r = i + rand() % (brojac_maceva - i);
+        Utakmica temp = raspored[i];
+        raspored[i] = raspored[r];
+        raspored[r] = temp;
+    }
+}
+
 void simulirajJednuUtakmicu(Igrac svi_igraci[], int broj_igraca, char moj_tim[], Utakmica u, Ekipa niz_ekipa[], int broj_timova, int *trenutni_mec) {
     system("cls");
     float moj_ovr = racunajProsecanOvr(svi_igraci, broj_igraca, moj_tim);
@@ -360,15 +413,7 @@ int main() {
     int izabran_broj = izbor();
     int stvarni_indeks = start_index + (izabran_broj - 1);
     char* moj_tim = niz_ekipa[stvarni_indeks].ime;
-    int brojac_maceva = 0;
-    while(brojac_maceva < 82) {
-        int nasumicni_indeks = rand() % broj_timova;
-        if (strcmp(niz_ekipa[nasumicni_indeks].ime, moj_tim) != 0) {
-            strcpy(raspored[brojac_maceva].protivnik, niz_ekipa[nasumicni_indeks].ime);
-            raspored[brojac_maceva].da_li_sam_domacin = rand() % 2;
-            brojac_maceva++;
-        }
-    }
+    generisiNBAraspored(niz_ekipa, broj_timova, stvarni_indeks, raspored);
     ispisiRoster(svi_igraci, broj_igraca, moj_tim);
     printf("Pritisni enter da pocnes: ");
     getchar(); getchar();
