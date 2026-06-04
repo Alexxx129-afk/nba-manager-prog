@@ -247,20 +247,29 @@ void simulirajJednuUtakmicu(Igrac svi_igraci[], int broj_igraca, char moj_tim[],
 
 void ispisiRoster(Igrac svi_igraci[], int broj_igraca, char trazeni_tim[]) {
     system("cls");
-    int pronadjeno = 0;
+    Igrac roster[20];
+    int br = 0;
+    for(int i = 0; i < broj_igraca; i++) {
+        if(strcmp(svi_igraci[i].ekipa, trazeni_tim) == 0) {
+            roster[br] = svi_igraci[i];
+            br++;
+        }
+    }
+    for(int i = 0; i < br - 1; i++) {
+        for(int j = 0; j < br - i - 1; j++) {
+            if(roster[j].ovr < roster[j + 1].ovr) {
+                Igrac temp = roster[j];
+                roster[j] = roster[j + 1];
+                roster[j + 1] = temp;
+            }
+        }
+    }
     printf("\n==================================================\n");
     printf("           ROSTER TIMA: %s\n", trazeni_tim);
     printf("==================================================\n");
-    printf("%-20s | %-5s | %-12s\n", "IME IGRACA", "OVR", "CENA/PLATA");
-    printf("--------------------------------------------------\n");
-    for (int i = 0; i < broj_igraca; i++) {
-        if (strcmp(svi_igraci[i].ekipa, trazeni_tim) == 0) {
-            printf("%-20s | %-5d | $%ld\n", svi_igraci[i].ime, svi_igraci[i].ovr, svi_igraci[i].cena);
-            pronadjeno++;
-        }
+    for(int i = 0; i < br; i++) {
+        printf("%-20s | %-5d | $%ld\n", roster[i].ime, roster[i].ovr, roster[i].cena);
     }
-    printf("==================================================\n");
-    printf("Ukupno pronadjeno igraca: %d\n", pronadjeno);
 }
 
 void ispisi_opcije() {
@@ -268,7 +277,8 @@ void ispisi_opcije() {
     printf("1. Odigraj utakmicu\n");
     printf("2. Pregled ekipe\n");
     printf("3. Prikaz tabele\n");
-    printf("4. Izlaz\n");
+    printf("4. Transfer igrača\n");
+    printf("5. Izlaz\n");
     printf("==================================================\n");
 }
 
@@ -277,9 +287,9 @@ int izbor_meni() {
     printf("Unesi broj za izbor opcije: ");
     do {
         scanf("%d", &broj);
-        if (broj < 1 || broj > 4)
-            printf("Greska! Molimo unesite broj izmedju 1 i 4.\n\n");
-    } while(broj < 1 || broj > 4);
+        if (broj < 1 || broj > 5)
+            printf("Greska! Molimo unesite broj izmedju 1 i 5.\n\n");
+    } while(broj < 1 || broj > 5);
     return broj;
 }
 
@@ -359,6 +369,81 @@ void prikaziTabelu(Ekipa niz_ekipa[], int broj_timova) {
     printf("=============================================\n");
 }
 
+void transferIgraca(Igrac svi_igraci[], int broj_igraca, char moj_tim[]) {
+    int moji[20];
+    int br_mojih = 0;
+    system("cls");
+    printf("=====================================\n");
+    printf("          TRANSFER CENTAR\n");
+    printf("=====================================\n\n");
+    printf("Vasi igraci:\n\n");
+    for(int i = 0; i < broj_igraca; i++) {
+        if(strcmp(svi_igraci[i].ekipa, moj_tim) == 0) {
+            printf("%d. %-20s OVR %d\n", br_mojih + 1, svi_igraci[i].ime, svi_igraci[i].ovr);
+            moji[br_mojih] = i;
+            br_mojih++;
+        }
+    }
+    int izbor;
+    printf("\nIzaberite igraca za trade: ");
+    scanf("%d",&izbor);
+    izbor--;
+    if(izbor < 0 || izbor >= br_mojih) {
+        printf("Pogresan unos!\n");
+        return;
+    }
+    int moj_idx = moji[izbor];
+    int kandidati[200];
+    int br_kandidata = 0;
+    printf("\nMoguci tradeovi:\n\n");
+    for(int i = 0; i < broj_igraca; i++) {
+        if(strcmp(svi_igraci[i].ekipa, moj_tim) != 0) {
+            if(abs(svi_igraci[i].ovr - svi_igraci[moj_idx].ovr) <= 2) {
+                printf("%d. %-20s | %-25s | OVR %d\n", br_kandidata + 1, svi_igraci[i].ime, svi_igraci[i].ekipa, svi_igraci[i].ovr);
+                kandidati[br_kandidata] = i;
+                br_kandidata++;
+            }
+        }
+    }
+    if(br_kandidata == 0) {
+        printf("Nema dostupnih tradeova!\n");
+        return;
+    }
+    int izbor2;
+    printf("\nIzaberi igraca za zamenu: ");
+    scanf("%d",&izbor2);
+    izbor2--;
+    if(izbor2 < 0 || izbor2 >= br_kandidata) {
+        printf("Pogresan unos!\n");
+        return;
+    }
+    int drugi_idx = kandidati[izbor2];
+    printf("\n=====================================\n");
+    printf("PONUDA TRADEA\n");
+    printf("=====================================\n");
+    printf("%s (%d)\n", svi_igraci[moj_idx].ime, svi_igraci[moj_idx].ovr);
+    printf("ZA\n");
+    printf("%s (%d)\n", svi_igraci[drugi_idx].ime, svi_igraci[drugi_idx].ovr);
+    int potvrda;
+    printf("\n1 - Prihvati trade\n");
+    printf("0 - Odbij trade\n");
+    printf("Izbor: ");
+    scanf("%d",&potvrda);
+    if(potvrda == 1) {
+        char tim1[50];
+        char tim2[50];
+        strcpy(tim1, svi_igraci[moj_idx].ekipa);
+        strcpy(tim2, svi_igraci[drugi_idx].ekipa);
+        strcpy(svi_igraci[moj_idx].ekipa, tim2);
+        strcpy(svi_igraci[drugi_idx].ekipa, tim1);
+        printf("\nTRADE USPESNO ZAVRSEN!\n");
+    } else {
+        printf("\nTrade odbijen.\n");
+    }
+    printf("\nPritisni Enter...");
+    getchar(); getchar();
+}
+
 void meni(Igrac svi_igraci[], int broj_igraca, char trazeni_tim[], Ekipa niz_ekipa[], int broj_timova, Utakmica raspored[], int *trenutni_mec) {
     int broj;
     do {
@@ -386,11 +471,14 @@ void meni(Igrac svi_igraci[], int broj_igraca, char trazeni_tim[], Ekipa niz_eki
             getchar(); getchar();
             break;
         case 4:
+            transferIgraca(svi_igraci, broj_igraca, trazeni_tim);
+            break;
+        case 5:
             printf("Gasim igricu Hvala na igranju!\n");
             spavaj(2);
             exit(0);
         }
-    } while(broj != 4);
+    } while(broj != 5);
 }
 
 int main() {
