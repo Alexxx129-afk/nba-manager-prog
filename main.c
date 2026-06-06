@@ -277,7 +277,7 @@ void ispisi_opcije() {
     printf("1. Odigraj utakmicu\n");
     printf("2. Pregled ekipe\n");
     printf("3. Prikaz tabele\n");
-    printf("4. Transfer igrača\n");
+    printf("4. Transfer igraca\n");
     printf("5. Izlaz\n");
     printf("==================================================\n");
 }
