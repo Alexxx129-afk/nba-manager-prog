@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1780753158 source:e:\codeblocks\projekat\main.c
+1780847511 source:e:\codeblocks\projekat\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<windows.h>
 	<time.h>
+	<conio.h>
 

@@ -1,361 +1,361 @@
-Kyrie Irving,Dallas Mavericks,39000000,90
-Cooper Flagg,Dallas Mavericks,13000000,88
-Naji Marshall,Dallas Mavericks,9000000,81
-Daniel Gafford,Dallas Mavericks,14000000,80
-Brandon Williams,Dallas Mavericks,2000000,80
-Marvin Bagley,Dallas Mavericks,2000000,79
-Dereck Lively,Dallas Mavericks,5000000,79
-Klay Thompson,Dallas Mavericks,17000000,78
-Max Christie,Dallas Mavericks,7000000,77
-Khris Middleton,Dallas Mavericks,33000000,76
-Caleb Martin,Dallas Mavericks,10000000,75
-Dwight Powell,Dallas Mavericks,4000000,74
-Nikola Jokic,Denver Nuggets,55000000,98
-Jamal Murray,Denver Nuggets,46000000,89
-Aaron Gordon,Denver Nuggets,23000000,83
-Peyton Watson,Denver Nuggets,4000000,82
-Christian Braun,Denver Nuggets,5000000,80
-Cameron Johnson,Denver Nuggets,21000000,80
-Tim Hardaway Jr,Denver Nuggets,2000000,80
-Jonas Valanciunas,Denver Nuggets,10000000,79
-Julian Strawther,Denver Nuggets,3000000,77
-Bruce Brown,Denver Nuggets,2000000,75
-Spencer Jones,Denver Nuggets,600000,73
-Jalen Pickett,Denver Nuggets,2000000,73
-Stephen Curry,Golden State Warriors,60000000,95
-Jimmy Butler,Golden State Warriors,54000000,88
-Kristaps Porzingis,Golden State Warriors,30000000,83
-Brandin Podziemski,Golden State Warriors,4000000,91
-Gui Santos,Golden State Warriors,2000000,80
-Gary Payton,Golden State Warriors,2000000,79
-Draymond Green,Golden State Warriors,26000000,79
-Moses Moody,Golden State Warriors,12000000,79
-Al Horford,Golden State Warriors,6000000,79
-Pat Spencer,Golden State Warriors,800000,76
-Quinten Post,Golden State Warriors,2000000,76
-Will Richard,Golden State Warriors,1000000,75
-Kevin Durant,Houston Rockets,55000000,93
-Alperen Sengun,Houston Rockets,34000000,88
-Amen Thompson,Houston Rockets,10000000,87
-Jabari Smith,Houston Rockets,12000000,82
-Fred VanVleet,Houston Rockets,25000000,80
-Reed Sheppard,Houston Rockets,11000000,80
-Tari Eason,Houston Rockets,6000000,79
-Clint Capela,Houston Rockets,7000000,77
-Steven Adams,Houston Rockets,14000000,77
-Josh Okogie,Houston Rockets,2000000,75
-Aaron Holiday,Houston Rockets,2000000,74
-Jeff Green,Houston Rockets,2000000,73
-Kawhi Leonard,Los Angeles Clippers,50000000,95
-Darius Garland,Los Angeles Clippers,39400000,85
-John Collins,Los Angeles Clippers,26600000,81
-Bogdan Bogdanovic,Los Angeles Clippers,16000000,74
-Derrick Jones Jr.,Los Angeles Clippers,10000000,79
-Bennedict Mathurin,Los Angeles Clippers,9200000,82
-Brook Lopez,Los Angeles Clippers,8800000,78
-Isaiah Jackson,Los Angeles Clippers,7600000,77
-Kris Dunn,Los Angeles Clippers,5400000,77
-Bradley Beal,Los Angeles Clippers,5400000,77
-Yanic Konan Niederhauser,Los Angeles Clippers,2700000,75
-Jordan Miller,Los Angeles Clippers,700000,77
-Luka Doncic,Los Angeles Lakers,46000000,97
-LeBron James,Los Angeles Lakers,52000000,92
-Austin Reaves,Los Angeles Lakers,13000000,87
-Rui Hachimura,Los Angeles Lakers,18000000,81
-Marcus Smart,Los Angeles Lakers,5000000,80
-Deandre Ayton,Los Angeles Lakers,8000000,79
-Jaxson Hayes,Los Angeles Lakers,3000000,79
-Luke Kennard,Los Angeles Lakers,11000000,78
-Jarred Vanderbilt,Los Angeles Lakers,11600000,76
-Jake LaRavia,Los Angeles Lakers,6000000,76
-Maxi Kleber,Los Angeles Lakers,11000000,74
-Dalton Knecht,Los Angeles Lakers,4000000,74
-Ja Morant,Memphis Grizzlies,39000000,87
-Ty Jerome,Memphis Grizzlies,9000000,83
-Zach Edey,Memphis Grizzlies,6000000,82
-Santi Aldama,Memphis Grizzlies,18000000,81
-G.G. Jackson,Memphis Grizzlies,2000000,80
-Cedric Coward,Memphis Grizzlies,6000000,80
-Cam Spencer,Memphis Grizzlies,3000000,79
-Jaylen Wells,Memphis Grizzlies,2000000,79
-Olivier-Maxence Prosper,Memphis Grizzlies,1000000,78
-Brandon Clarke,Memphis Grizzlies,13000000,78
-Javon Small,Memphis Grizzlies,1000000,77
-Scotty Pippen Jr.,Memphis Grizzlies,2000000,77
-Anthony Edwards,Minnesota Timberwolves,46000000,96
-Jaden McDaniels,Minnesota Timberwolves,24000000,85
-Julius Randle,Minnesota Timberwolves,31000000,85
-Rudy Gobert,Minnesota Timberwolves,35000000,85
-Ayo Dosunmu,Minnesota Timberwolves,8000000,83
-Naz Reid,Minnesota Timberwolves,22000000,82
-Donte DiVincenzo,Minnesota Timberwolves,12000000,80
-Mike Conley,Minnesota Timberwolves,1000000,77
-Terrence Shannon Jr.,Minnesota Timberwolves,3000000,77
-Nah'Shon Hyland,Minnesota Timberwolves,2000000,76
-Kyle Anderson,Minnesota Timberwolves,1000000,75
-Jaylen Clark,Minnesota Timberwolves,2000000,73
-Zion Williamson,New Orleans Pelicans,39000000,86
-Trey Murphy III,New Orleans Pelicans,25000000,85
-Saddiq Bey,New Orleans Pelicans,6000000,84
-Dejounte Murray,New Orleans Pelicans,31000000,84
-Jeremiah Fears,New Orleans Pelicans,8000000,80
-Derik Queen,New Orleans Pelicans,5000000,80
-Herbert Jones,New Orleans Pelicans,14000000,79
-Yves Missi,New Orleans Pelicans,3000000,78
-DeAndre Jordan,New Orleans Pelicans,2000000,76
-Karlo Matkovic,New Orleans Pelicans,2000000,76
-Jordan Poole,New Orleans Pelicans,32000000,76
-Bryce McGowens,New Orleans Pelicans,1000000,75
-Shai Gilgeous-Alexander,Oklahoma City Thunder,38000000,98
-Chet Holmgren,Oklahoma City Thunder,14000000,88
-Jalen Williams,Oklahoma City Thunder,7000000,87
-Isaiah Hartenstein,Oklahoma City Thunder,29000000,84
-Ajay Mitchell,Oklahoma City Thunder,3000000,84
-Cason Wallace,Oklahoma City Thunder,6000000,82
-Luguentz Dort,Oklahoma City Thunder,18000000,80
-Isaiah Joe,Oklahoma City Thunder,12000000,80
-Alex Caruso,Oklahoma City Thunder,18000000,80
-Jaylin Williams,Oklahoma City Thunder,8000000,79
-Jared McCain,Oklahoma City Thunder,4000000,79
-Aaron Wiggins,Oklahoma City Thunder,10000000,78
-Devin Booker,Phoenix Suns,53000000,93
-Dillon Brooks,Phoenix Suns,21000000,84
-Jalen Green,Phoenix Suns,34000000,82
-Mark Williams,Phoenix Suns,6000000,82
-Collin Gillespie,Phoenix Suns,2000000,81
-Grayson Allen,Phoenix Suns,17000000,81
-Royce O'Neale,Phoenix Suns,10000000,77
-Oso Ighodaro,Phoenix Suns,2000000,77
-Jordan Goodwin,Phoenix Suns,2000000,77
-Rasheer Fleming,Phoenix Suns,1000000,76
-Khaman Maluach,Phoenix Suns,6000000,75
-Ryan Dunn,Phoenix Suns,3000000,75
-Deni Avdija,Portland Trailblazers,14000000,88
-Damian Lillard,Portland Trailblazers,14000000,88
-Shaedon Sharpe,Portland Trailblazers,8000000,83
-Donovan Clingan,Portland Trailblazers,7000000,83
-Jrue Holiday,Portland Trailblazers,32000000,82
-Toumani Camara,Portland Trailblazers,2000000,81
-Jerami Grant,Portland Trailblazers,32000000,81
-Scoot Henderson,Portland Trailblazers,11000000,81
-Robert Williams III,Portland Trailblazers,13000000,80
-Matisse Thybulle,Portland Trailblazers,12000000,76
-Vit Krejci,Portland Trailblazers,2000000,75
-Caleb Love,Portland Trailblazers,2000000,75
-Victor Wembanyama,San Antonio Spurs,13000000,97
-Stephon Castle,San Antonio Spurs,10000000,88
-De'Aaron Fox,San Antonio Spurs,37000000,87
-Dylan Harper,San Antonio Spurs,12000000,84
-Devin Vassell,San Antonio Spurs,27000000,82
-Julian Champagnie,San Antonio Spurs,3000000,80
-Keldon Johnson,San Antonio Spurs,18000000,79
-Harrison Barnes,San Antonio Spurs,19000000,78
-Luke Kornet,San Antonio Spurs,11000000,78
-Carter Bryant,San Antonio Spurs,5000000,77
-Mason Plumlee,San Antonio Spurs,1000000,76
-Kelly Olynyk,San Antonio Spurs,13000000,75
-Domantas Sabonis,Sacramento Kings,42000000,86
-DeMar DeRozan,Sacramento Kings,25000000,84
-Zach LaVine,Sacramento Kings,47000000,83
-Maxime Raynaud,Sacramento Kings,1000000,81
-Russell Westbrook,Sacramento Kings,2000000,81
-Malik Monk,Sacramento Kings,19000000,80
-Precious Achiuwa,Sacramento Kings,2000000,79
-Keegan Murray,Sacramento Kings,11000000,79
-De'Andre Hunter,Sacramento Kings,23000000,79
-Nique Clifford,Sacramento Kings,3000000,77
-Dylan Cardwell,Sacramento Kings,2000000,77
-Devin Carter,Sacramento Kings,5000000,77
-Keyonte George,Utah Jazz,4000000,87
-Lauri Markkanen,Utah Jazz,46000000,87
-Jaren Jackson Jr.,Utah Jazz,35000000,86
-Walker Kessler,Utah Jazz,5000000,83
-Isaiah Collier,Utah Jazz,3000000,82
-Jusuf Nurkic,Utah Jazz,19000000,82
-Brice Sensabaugh,Utah Jazz,3000000,81
-Ace Bailey,Utah Jazz,9000000,81
-Kyle Filipowski,Utah Jazz,3000000,79
-John Konchar,Utah Jazz,6000000,76
-Cody Williams,Utah Jazz,6000000,76
-Siatoslav Mykhailiuk,Utah Jazz,4000000,76
-Jalen Johnson,Atlanta Hawks,30000000,89
-Nickeil Alexander-Walker,Atlanta Hawks,15000000,83
-C.J. McCollum,Atlanta Hawks,31000000,83
-Dyson Daniels,Atlanta Hawks,8000000,83
-Onyeka Okongwu,Atlanta Hawks,15000000,82
-Jonathan Kuminga,Atlanta Hawks,24000000,79
-Jock Landale,Atlanta Hawks,2000000,78
-Zaccharie Risacher,Atlanta Hawks,13000000,77
-Corey Kispert,Atlanta Hawks,14000000,76
-Buddy Hield,Atlanta Hawks,9000000,75
-Asa Newell,Atlanta Hawks,3000000,75
-Mouhamed Gueye,Atlanta Hawks,2000000,74
-Michael Porter Jr.,Brooklyn Nets,38000000,86
-Nicolas Claxton,Brooklyn Nets,25000000,81
-Josh Minott,Brooklyn Nets,2000000,78
-Ziaire Williams,Brooklyn Nets,6000000,78
-Egor Demin,Brooklyn Nets,7000000,78
-Day'Ron Sharpe,Brooklyn Nets,6000000,78
-Nolan Traore,Brooklyn Nets,4000000,77
-Noah Clowney,Brooklyn Nets,3000000,77
-Danny Wolf,Brooklyn Nets,3000000,77
-Terance Mann,Brooklyn Nets,16000000,76
-Ben Saraf,Brooklyn Nets,3000000,75
-Ochai Agbaji,Brooklyn Nets,6000000,75
-Jaylen Brown,Boston Celtics,53000000,95
-Jayson Tatum,Boston Celtics,54000000,93
-Derrick White,Boston Celtics,28000000,85
-Payton Pritchard,Boston Celtics,7000000,82
-Neemias Queta,Boston Celtics,2000000,81
-Nikola Vucevic,Boston Celtics,21000000,79
-Luka Garza,Boston Celtics,2000000,78
-Sam Hauser,Boston Celtics,10000000,78
-Jordan Walsh,Boston Celtics,2000000,76
-Baylor Scheierman,Boston Celtics,3000000,76
-Hugo Gonzalez,Boston Celtics,3000000,75
-Ron Harper Jr.,Boston Celtics,2000000,73
-LaMelo Ball,Charlotte Hornets,38000000,88
-Brandon Miller,Charlotte Hornets,12000000,87
-Kon Knueppel,Charlotte Hornets,10000000,86
-Miles Bridges,Charlotte Hornets,25000000,81
-Coby White,Charlotte Hornets,13000000,81
-Moussa Diabate,Charlotte Hornets,2000000,80
-Ryan Kalkbrenner,Charlotte Hornets,2000000,80
-Grant Williams,Charlotte Hornets,14000000,76
-Josh Green,Charlotte Hornets,14000000,75
-Sion James,Charlotte Hornets,2000000,75
-Tidjane Salaun,Charlotte Hornets,8000000,75
-Tre Mann,Charlotte Hornets,8000000,74
-Josh Giddey,Chicago Bulls,25000000,83
-Matas Buzelis,Chicago Bulls,5000000,82
-Tre Jones,Chicago Bulls,8000000,81
-Collin Sexton,Chicago Bulls,19000000,81
-Anfernee Simons,Chicago Bulls,28000000,80
-Jalen Smith,Chicago Bulls,9000000,79
-Isaac Okoro,Chicago Bulls,11000000,77
-Zach Collins,Chicago Bulls,18000000,77
-Leonard Miller,Chicago Bulls,2000000,76
-Guerschon Yabusele,Chicago Bulls,6000000,76
-Nick Richards,Chicago Bulls,5000000,75
-Patrick Williams,Chicago Bulls,18000000,75
-Donovan Mitchell,Cleveland Cavaliers,46000000,94
-James Harden,Cleveland Cavaliers,39000000,90
-Evan Mobley,Cleveland Cavaliers,46000000,87
-Jarrett Allen,Cleveland Cavaliers,20000000,86
-Max Strus,Cleveland Cavaliers,16000000,79
-Sam Merrill,Cleveland Cavaliers,8000000,78
-Dean Wade,Cleveland Cavaliers,7000000,78
-Jaylon Tyson,Cleveland Cavaliers,3000000,77
-Dennis Schroder,Cleveland Cavaliers,14000000,77
-Keon Ellis,Cleveland Cavaliers,2000000,77
-Thomas Bryant,Cleveland Cavaliers,2000000,76
-Nae'Qwan Tomlin,Cleveland Cavaliers,1000000,74
-Cade Cunningham,Detroit Pistons,46000000,95
-Ausar Thompson,Detroit Pistons,9000000,86
-Jalen Duren,Detroit Pistons,6000000,85
-Tobias Harris,Detroit Pistons,27000000,83
-Duncan Robinson,Detroit Pistons,17000000,80
-Daniss Jenkins,Detroit Pistons,4000000,80
-Paul Reed,Detroit Pistons,5000000,79
-Caris LeVert,Detroit Pistons,14000000,79
-Isaiah Stewart,Detroit Pistons,15000000,78
-Ron Holland,Detroit Pistons,9000000,78
-Javonte Green,Detroit Pistons,2000000,78
-Kevin Huerter,Detroit Pistons,18000000,77
-Tyrese Haliburton,Indiana Pacers,46000000,93
-Pascal Siakam,Indiana Pacers,46000000,87
-Ivica Zubac,Indiana Pacers,19000000,85
-Andrew Nembhard,Indiana Pacers,18000000,82
-Jarace Walker,Indiana Pacers,7000000,81
-T.J. McConnell,Indiana Pacers,1000000,81
-Aaron Nesmith,Indiana Pacers,11000000,80
-Obi Toppin,Indiana Pacers,14000000,80
-Jay Huff,Indiana Pacers,2000000,79
-Kobe Brown,Indiana Pacers,3000000,76
-Quenton Jackson,Indiana Pacers,1000000,76
-Micah Potter,Indiana Pacers,2000000,76
-Ben Sheppard,Indiana Pacers,3000000,75
-Bam Adebayo,Miami Heat,37000000,89
-Tyler Herro,Miami Heat,31000000,87
-Norman Powell,Miami Heat,20000000,85
-Andrew Wiggins,Miami Heat,28000000,81
-Jaime Jaquez Jr.,Miami Heat,4000000,80
-Pelle Larsson,Miami Heat,2000000,80
-Kel'el Ware,Miami Heat,4000000,80
-Davion Mitchell,Miami Heat,12000000,79
-Simone Fontecchio,Miami Heat,8000000,77
-Kasparas Jakucionis,Miami Heat,4000000,76
-Myron Gardner,Miami Heat,2000000,75
-Dru Smith,Miami Heat,2000000,75
-Giannis Antetokounmpo,Milwaukee Bucks,54000000,97
-Ryan Rollins,Milwaukee Bucks,4000000,82
-Kevin Porter Jr.,Milwaukee Bucks,5000000,82
-Kyle Kuzma,Milwaukee Bucks,22000000,80
-Bobby Portis Jr.,Milwaukee Bucks,13000000,80
-Myles Turner,Milwaukee Bucks,25000000,78
-Ousmane Dieng,Milwaukee Bucks,7000000,77
-A.J. Green,Milwaukee Bucks,2000000,76
-Taurean Prince,Milwaukee Bucks,3000000,76
-Gary Trent Jr.,Milwaukee Bucks,4000000,75
-Pete Nance,Milwaukee Bucks,2000000,74
-Jericho Sims,Milwaukee Bucks,2000000,74
-Jalen Brunson,New York Knicks,35000000,94
-Karl-Anthony Towns,New York Knicks,53000000,91
-OG Anunoby,New York Knicks,40000000,88
-Mikal Bridges,New York Knicks,25000000,84
-Josh Hart,New York Knicks,19000000,82
-Mitchell Robinson,New York Knicks,13000000,80
-Miles McBride,New York Knicks,4000000,79
-Jose Alvarado,New York Knicks,5000000,78
-Jordan Clarkson,New York Knicks,2000000,77
-Landry Shamet,New York Knicks,2000000,77
-Jeremy Sochan,New York Knicks,1000000,74
-Tyler Kolek,New York Knicks,2000000,74
-Paolo Banchero,Orlando Magic,15000000,88
-Franz Wagner,Orlando Magic,39000000,87
-Desmond Bane,Orlando Magic,37000000,86
-Anthony Black,Orlando Magic,8000000,82
-Jalen Suggs,Orlando Magic,35000000,81
-Wendell Carter Jr.,Orlando Magic,11000000,80
-Tristan Da Silva,Orlando Magic,4000000,78
-Goga Bitadze,Orlando Magic,8000000,77
-Moritz Wagner,Orlando Magic,5000000,77
-Noah Penda,Orlando Magic,1000000,75
-Jevon Carter,Orlando Magic,1000000,75
-Jamal Cain,Orlando Magic,2000000,74
-Tyrese Maxey,Philadelphia 76ers,38000000,93
-Joel Embiid,Philadelphia 76ers,55000000,92
-V.J. Edgecombe,Philadelphia 76ers,11000000,83
-Paul George,Philadelphia 76ers,52000000,83
-Kelly Oubre Jr.,Philadelphia 76ers,8000000,80
-Quentin Grimes,Philadelphia 76ers,9000000,79
-Justin Edwards,Philadelphia 76ers,2000000,76
-Dominick Barlow,Philadelphia 76ers,3000000,76
-Andre Drummond,Philadelphia 76ers,5000000,76
-Trendon Watford,Philadelphia 76ers,2000000,76
-Adem Bona,Philadelphia 76ers,2000000,75
-Cameron Payne,Philadelphia 76ers,2000000,75
-Scottie Barnes,Toronto Raptors,39000000,89
-Brandon Ingram,Toronto Raptors,38000000,86
-Immanuel Quickley,Toronto Raptors,33000000,84
-R.J. Barrett,Toronto Raptors,28000000,83
-Collin Murray-Boyles,Toronto Raptors,6000000,81
-Jakob Poeltl,Toronto Raptors,20000000,80
-Sandro Mamukelashvili,Toronto Raptors,2000000,79
-Jamal Shead,Toronto Raptors,2000000,78
-Ja'Kobe Walter,Toronto Raptors,4000000,78
-Gradey Dick,Toronto Raptors,5000000,76
-Jamison Battle,Toronto Raptors,2000000,76
-A.J. Lawson,Toronto Raptors,1000000,74
-Anthony Davis,Washington Wizards,54000000,92
-Trae Young,Washington Wizards,46000000,89
-Alex Sarr,Washington Wizards,12000000,84
-Kyshawn George,Washington Wizards,3000000,82
-Will Riley,Washington Wizards,4000000,81
-Bilal Coulibaly,Washington Wizards,7000000,79
-Tre Johnson,Washington Wizards,8000000,78
-Bub Carrington,Washington Wizards,5000000,78
-Justin Champagnie,Washington Wizards,2000000,78
-Tristan Vukcevic,Washington Wizards,3000000,77
-Julian Reese,Washington Wizards,2000000,76
-Jamir Watkins,Washington Wizards,3000000,76
+Kyrie Irving,25,39000000,90
+Cooper Flagg,25,13000000,88
+Naji Marshall,25,9000000,81
+Daniel Gafford,25,14000000,80
+Brandon Williams,25,2000000,80
+Marvin Bagley,25,2000000,79
+Dereck Lively,25,5000000,79
+Klay Thompson,25,17000000,78
+Max Christie,25,7000000,77
+Khris Middleton,25,33000000,76
+Caleb Martin,25,10000000,75
+Dwight Powell,25,4000000,74
+Nikola Jokic,15,55000000,98
+Jamal Murray,15,46000000,89
+Aaron Gordon,15,23000000,83
+Peyton Watson,15,4000000,82
+Christian Braun,15,5000000,80
+Cameron Johnson,15,21000000,80
+Tim Hardaway Jr,15,2000000,80
+Jonas Valanciunas,15,10000000,79
+Julian Strawther,15,3000000,77
+Bruce Brown,15,2000000,75
+Spencer Jones,15,600000,73
+Jalen Pickett,15,2000000,73
+Stephen Curry,20,60000000,95
+Jimmy Butler,20,54000000,88
+Kristaps Porzingis,20,30000000,83
+Brandin Podziemski,20,4000000,91
+Gui Santos,20,2000000,80
+Gary Payton,20,2000000,79
+Draymond Green,20,26000000,79
+Moses Moody,20,12000000,79
+Al Horford,20,6000000,79
+Pat Spencer,20,800000,76
+Quinten Post,20,2000000,76
+Will Richard,20,1000000,75
+Kevin Durant,26,55000000,93
+Alperen Sengun,26,34000000,88
+Amen Thompson,26,10000000,87
+Jabari Smith,26,12000000,82
+Fred VanVleet,26,25000000,80
+Reed Sheppard,26,11000000,80
+Tari Eason,26,6000000,79
+Clint Capela,26,7000000,77
+Steven Adams,26,14000000,77
+Josh Okogie,26,2000000,75
+Aaron Holiday,26,2000000,74
+Jeff Green,26,2000000,73
+Kawhi Leonard,21,50000000,95
+Darius Garland,21,39400000,85
+John Collins,21,26600000,81
+Bogdan Bogdanovic,21,16000000,74
+Derrick Jones Jr.,21,10000000,79
+Bennedict Mathurin,21,9200000,82
+Brook Lopez,21,8800000,78
+Isaiah Jackson,21,7600000,77
+Kris Dunn,21,5400000,77
+Bradley Beal,21,5400000,77
+Yanic Konan Niederhauser,21,2700000,75
+Jordan Miller,21,700000,77
+Luka Doncic,22,46000000,97
+LeBron James,22,52000000,92
+Austin Reaves,22,13000000,87
+Rui Hachimura,22,18000000,81
+Marcus Smart,22,5000000,80
+Deandre Ayton,22,8000000,79
+Jaxson Hayes,22,3000000,79
+Luke Kennard,22,11000000,78
+Jarred Vanderbilt,22,11600000,76
+Jake LaRavia,22,6000000,76
+Maxi Kleber,22,11000000,74
+Dalton Knecht,22,4000000,74
+Ja Morant,27,39000000,87
+Ty Jerome,27,9000000,83
+Zach Edey,27,6000000,82
+Santi Aldama,27,18000000,81
+G.G. Jackson,27,2000000,80
+Cedric Coward,27,6000000,80
+Cam Spencer,27,3000000,79
+Jaylen Wells,27,2000000,79
+Olivier-Maxence Prosper,27,1000000,78
+Brandon Clarke,27,13000000,78
+Javon Small,27,1000000,77
+Scotty Pippen Jr.,27,2000000,77
+Anthony Edwards,16,46000000,96
+Jaden McDaniels,16,24000000,85
+Julius Randle,16,31000000,85
+Rudy Gobert,16,35000000,85
+Ayo Dosunmu,16,8000000,83
+Naz Reid,16,22000000,82
+Donte DiVincenzo,16,12000000,80
+Mike Conley,16,1000000,77
+Terrence Shannon Jr.,16,3000000,77
+Nah'Shon Hyland,16,2000000,76
+Kyle Anderson,16,1000000,75
+Jaylen Clark,16,2000000,73
+Zion Williamson,28,39000000,86
+Trey Murphy III,28,25000000,85
+Saddiq Bey,28,6000000,84
+Dejounte Murray,28,31000000,84
+Jeremiah Fears,28,8000000,80
+Derik Queen,28,5000000,80
+Herbert Jones,28,14000000,79
+Yves Missi,28,3000000,78
+DeAndre Jordan,28,2000000,76
+Karlo Matkovic,28,2000000,76
+Jordan Poole,28,32000000,76
+Bryce McGowens,28,1000000,75
+Shai Gilgeous-Alexander,17,38000000,98
+Chet Holmgren,17,14000000,88
+Jalen Williams,17,7000000,87
+Isaiah Hartenstein,17,29000000,84
+Ajay Mitchell,17,3000000,84
+Cason Wallace,17,6000000,82
+Luguentz Dort,17,18000000,80
+Isaiah Joe,17,12000000,80
+Alex Caruso,17,18000000,80
+Jaylin Williams,17,8000000,79
+Jared McCain,17,4000000,79
+Aaron Wiggins,17,10000000,78
+Devin Booker,23,53000000,93
+Dillon Brooks,23,21000000,84
+Jalen Green,23,34000000,82
+Mark Williams,23,6000000,82
+Collin Gillespie,23,2000000,81
+Grayson Allen,23,17000000,81
+Royce O'Neale,23,10000000,77
+Oso Ighodaro,23,2000000,77
+Jordan Goodwin,23,2000000,77
+Rasheer Fleming,23,1000000,76
+Khaman Maluach,23,6000000,75
+Ryan Dunn,23,3000000,75
+Deni Avdija,18,14000000,88
+Damian Lillard,18,14000000,88
+Shaedon Sharpe,18,8000000,83
+Donovan Clingan,18,7000000,83
+Jrue Holiday,18,32000000,82
+Toumani Camara,18,2000000,81
+Jerami Grant,18,32000000,81
+Scoot Henderson,18,11000000,81
+Robert Williams III,18,13000000,80
+Matisse Thybulle,18,12000000,76
+Vit Krejci,18,2000000,75
+Caleb Love,18,2000000,75
+Victor Wembanyama,29,13000000,97
+Stephon Castle,29,10000000,88
+De'Aaron Fox,29,37000000,87
+Dylan Harper,29,12000000,84
+Devin Vassell,29,27000000,82
+Julian Champagnie,29,3000000,80
+Keldon Johnson,29,18000000,79
+Harrison Barnes,29,19000000,78
+Luke Kornet,29,11000000,78
+Carter Bryant,29,5000000,77
+Mason Plumlee,29,1000000,76
+Kelly Olynyk,29,13000000,75
+Domantas Sabonis,24,42000000,86
+DeMar DeRozan,24,25000000,84
+Zach LaVine,24,47000000,83
+Maxime Raynaud,24,1000000,81
+Russell Westbrook,24,2000000,81
+Malik Monk,24,19000000,80
+Precious Achiuwa,24,2000000,79
+Keegan Murray,24,11000000,79
+De'Andre Hunter,24,23000000,79
+Nique Clifford,24,3000000,77
+Dylan Cardwell,24,2000000,77
+Devin Carter,24,5000000,77
+Keyonte George,19,4000000,87
+Lauri Markkanen,19,46000000,87
+Jaren Jackson Jr.,19,35000000,86
+Walker Kessler,19,5000000,83
+Isaiah Collier,19,3000000,82
+Jusuf Nurkic,19,19000000,82
+Brice Sensabaugh,19,3000000,81
+Ace Bailey,19,9000000,81
+Kyle Filipowski,19,3000000,79
+John Konchar,19,6000000,76
+Cody Williams,19,6000000,76
+Siatoslav Mykhailiuk,19,4000000,76
+Jalen Johnson,10,30000000,89
+Nickeil Alexander-Walker,10,15000000,83
+C.J. McCollum,10,31000000,83
+Dyson Daniels,10,8000000,83
+Onyeka Okongwu,10,15000000,82
+Jonathan Kuminga,10,24000000,79
+Jock Landale,10,2000000,78
+Zaccharie Risacher,10,13000000,77
+Corey Kispert,10,14000000,76
+Buddy Hield,10,9000000,75
+Asa Newell,10,3000000,75
+Mouhamed Gueye,10,2400000,74
+Michael Porter Jr.,1,38000000,86
+Nicolas Claxton,1,25000000,81
+Josh Minott,1,2000000,78
+Ziaire Williams,1,6000000,78
+Egor Demin,1,7000000,78
+Day'Ron Sharpe,1,6000000,78
+Nolan Traore,1,4000000,77
+Noah Clowney,1,3000000,77
+Danny Wolf,1,3000000,77
+Terance Mann,1,16000000,76
+Ben Saraf,1,3000000,75
+Ochai Agbaji,1,6000000,75
+Jaylen Brown,0,53000000,95
+Jayson Tatum,0,54000000,93
+Derrick White,0,28000000,85
+Payton Pritchard,0,7000000,82
+Neemias Queta,0,2000000,81
+Nikola Vucevic,0,21000000,79
+Luka Garza,0,2000000,78
+Sam Hauser,0,10000000,78
+Jordan Walsh,0,2000000,76
+Baylor Scheierman,0,3000000,76
+Hugo Gonzalez,0,3000000,75
+Ron Harper Jr.,0,2000000,73
+LaMelo Ball,11,38000000,88
+Brandon Miller,11,12000000,87
+Kon Knueppel,11,10000000,86
+Miles Bridges,11,25000000,81
+Coby White,11,13000000,81
+Moussa Diabate,11,2000000,80
+Ryan Kalkbrenner,11,2000000,80
+Grant Williams,11,14000000,76
+Josh Green,11,14000000,75
+Sion James,11,2000000,75
+Tidjane Salaun,11,8000000,75
+Tre Mann,11,8000000,74
+Josh Giddey,5,25000000,83
+Matas Buzelis,5,5000000,82
+Tre Jones,5,8000000,81
+Collin Sexton,5,19000000,81
+Anfernee Simons,5,28000000,80
+Jalen Smith,5,9000000,79
+Isaac Okoro,5,11000000,77
+Zach Collins,5,18000000,77
+Leonard Miller,5,2000000,76
+Guerschon Yabusele,5,6000000,76
+Nick Richards,5,5000000,75
+Patrick Williams,5,18000000,75
+Donovan Mitchell,6,46000000,94
+James Harden,6,39000000,90
+Evan Mobley,6,46000000,87
+Jarrett Allen,6,20000000,86
+Max Strus,6,16000000,79
+Sam Merrill,6,8000000,78
+Dean Wade,6,7000000,78
+Jaylon Tyson,6,3000000,77
+Dennis Schroder,6,14000000,77
+Keon Ellis,6,2000000,77
+Thomas Bryant,6,2000000,76
+Nae'Qwan Tomlin,6,1000000,74
+Cade Cunningham,7,46000000,95
+Ausar Thompson,7,9000000,86
+Jalen Duren,7,6000000,85
+Tobias Harris,7,27000000,83
+Duncan Robinson,7,17000000,80
+Daniss Jenkins,7,4000000,80
+Paul Reed,7,5000000,79
+Caris LeVert,7,14000000,79
+Isaiah Stewart,7,15000000,78
+Ron Holland,7,9000000,78
+Javonte Green,7,2000000,78
+Kevin Huerter,7,18000000,77
+Tyrese Haliburton,8,46000000,93
+Pascal Siakam,8,46000000,87
+Ivica Zubac,8,19000000,85
+Andrew Nembhard,8,18000000,82
+Jarace Walker,8,7000000,81
+T.J. McConnell,8,1000000,81
+Aaron Nesmith,8,11000000,80
+Obi Toppin,8,14000000,80
+Jay Huff,8,2000000,79
+Kobe Brown,8,3000000,76
+Quenton Jackson,8,1000000,76
+Micah Potter,8,2000000,76
+Ben Sheppard,8,3000000,75
+Bam Adebayo,12,37000000,89
+Tyler Herro,12,31000000,87
+Norman Powell,12,20000000,85
+Andrew Wiggins,12,28000000,81
+Jaime Jaquez Jr.,12,4000000,80
+Pelle Larsson,12,2000000,80
+Kel'el Ware,12,4000000,80
+Davion Mitchell,12,12000000,79
+Simone Fontecchio,12,8000000,77
+Kasparas Jakucionis,12,4000000,76
+Myron Gardner,12,2000000,75
+Dru Smith,12,2000000,75
+Giannis Antetokounmpo,9,54000000,97
+Ryan Rollins,9,4000000,82
+Kevin Porter Jr.,9,5000000,82
+Kyle Kuzma,9,22000000,80
+Bobby Portis Jr.,9,13000000,80
+Myles Turner,9,25000000,78
+Ousmane Dieng,9,7000000,77
+A.J. Green,9,2000000,76
+Taurean Prince,9,3000000,76
+Gary Trent Jr.,9,4000000,75
+Pete Nance,9,2000000,74
+Jericho Sims,9,2000000,74
+Jalen Brunson,2,35000000,94
+Karl-Anthony Towns,2,53000000,91
+OG Anunoby,2,40000000,88
+Mikal Bridges,2,25000000,84
+Josh Hart,2,19000000,82
+Mitchell Robinson,2,13000000,80
+Miles McBride,2,4000000,79
+Jose Alvarado,2,5000000,78
+Jordan Clarkson,2,2000000,77
+Landry Shamet,2000000,2,77
+Jeremy Sochan,2,1000000,74
+Tyler Kolek,2,2000000,74
+Paolo Banchero,13,15000000,88
+Franz Wagner,13,39000000,87
+Desmond Bane,13,37000000,86
+Anthony Black,13,8000000,82
+Jalen Suggs,13,35000000,81
+Wendell Carter Jr.,13,11000000,80
+Tristan Da Silva,13,4000000,78
+Goga Bitadze,13,8000000,77
+Moritz Wagner,13,5000000,77
+Noah Penda,13,1000000,75
+Jevon Carter,13,1000000,75
+Jamal Cain,13,2000000,74
+Tyrese Maxey,3,38000000,93
+Joel Embiid,3,55000000,92
+V.J. Edgecombe,3,11000000,83
+Paul George,3,52000000,83
+Kelly Oubre Jr.,3,8000000,80
+Quentin Grimes,3,9000000,79
+Justin Edwards,3,2000000,76
+Dominick Barlow,3,3000000,76
+Andre Drummond,3,5000000,76
+Trendon Watford,3,2000000,76
+Adem Bona,3,2000000,75
+Cameron Payne,3,2000000,75
+Scottie Barnes,4,39000000,89
+Brandon Ingram,4,38000000,86
+Immanuel Quickley,4,33000000,84
+R.J. Barrett,4,28000000,83
+Collin Murray-Boyles,4,6000000,81
+Jakob Poeltl,4,20000000,80
+Sandro Mamukelashvili,4,2000000,79
+Jamal Shead,4,2000000,78
+Ja'Kobe Walter,4,4000000,78
+Gradey Dick,4,5000000,76
+Jamison Battle,4,2000000,76
+A.J. Lawson,4,1000000,74
+Anthony Davis,14,54000000,92
+Trae Young,14,46000000,89
+Alex Sarr,14,12000000,84
+Kyshawn George,14,3000000,82
+Will Riley,14,4000000,81
+Bilal Coulibaly,14,7000000,79
+Tre Johnson,14,8000000,78
+Bub Carrington,14,5000000,78
+Justin Champagnie,14,2000000,78
+Tristan Vukcevic,14,3000000,77
+Julian Reese,14,2000000,76
+Jamir Watkins,14,3000000,76
